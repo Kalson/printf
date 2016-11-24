@@ -1,6 +1,6 @@
 .TH _printf 3 "23 November 2016" "0.08" "_printf man page"
 .SH NAME
-_printf
+_printf - sends the formatted input to the the stdout.
 .SH SYNOPSIS
 Simplified version of printf
 .SH DESCRIPTION
